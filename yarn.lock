@@ -2313,9 +2313,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ahj-homeworks-dnd-trello@workspace:.":
+"ahj_dnd@workspace:.":
   version: 0.0.0-use.local
-  resolution: "ahj-homeworks-dnd-trello@workspace:."
+  resolution: "ahj_dnd@workspace:."
   dependencies:
     "@babel/cli": "npm:^7.24.8"
     "@babel/core": "npm:^7.24.9"
